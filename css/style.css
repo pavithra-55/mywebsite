@@ -523,29 +523,8 @@ header {
 .left-side:nth-child(7) {
     transform: translatez(7px) rotatey(-180deg);
 }
+
 .page:nth-child(8) {
-    padding: 5% 4% 4% 5%;
-    transform-origin: 0% 50%;
-    transform: translatez(-7px);
-    background: linear-gradient(#eee, #e6eef1) 50% 50%/90% 89% no-repeat, linear-gradient(#e32525, #d12e2e) 50% 50%/92% 92% no-repeat, linear-gradient(#eee, #eee) no-repeat;
-}
-
-.left-side:nth-child(8) {
-    transform: translatez(7px) rotatey(-180deg);
-}
-.page:nth-child(9) {
-    padding: 5% 4% 4% 5%;
-    transform-origin: 0% 50%;
-    transform: translatez(-7px);
-    background: linear-gradient(#eee, #e6eef1) 50% 50%/90% 89% no-repeat, linear-gradient(#e32525, #d12e2e) 50% 50%/92% 92% no-repeat, linear-gradient(#eee, #eee) no-repeat;
-}
-
-.left-side:nth-child(9) {
-    transform: translatez(7px) rotatey(-180deg);
-}
-
-
-.page:nth-child(10) {
     padding: 5% 5% 4% 4%;
     transform-origin: 100% 50%;
     transform: translatez(-8px) scalex(-1) translatex(100%);
