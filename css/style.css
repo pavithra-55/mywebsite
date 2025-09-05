@@ -422,7 +422,7 @@ header {
     margin-right: auto;
     transform: translate(-50%, -50%);
 
-    width: 80rem;
+    width: 40rem;
     height: 40px;
     transform: translate(-50%, -50%) rotatex(15deg) rotatey(-15deg);
     transform-style: preserve-3d;
